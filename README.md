@@ -2,5 +2,9 @@
 Genera the colour scheme via thecolorAPI
 
 
-https://user-images.githubusercontent.com/66684175/225337081-585354fb-1ce5-4eea-b951-cb010edd0600.mp4
+
+
+
+
+https://user-images.githubusercontent.com/66684175/225340333-0e9a14e1-dc60-44e8-b35b-f62b1c54bff2.mp4
 
