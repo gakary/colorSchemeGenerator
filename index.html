@@ -1,0 +1,31 @@
+<html>
+    <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+        <link rel="stylesheet" href="index.css">
+        <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <h2 class="title">Color Scheme Generator</h2>
+        <div class="color-picker">
+            <input type="color" id="picker" name="picker"
+             value="#e66465">
+             <select name="select-color" id="select-color">
+                 <option value="monochrome">Monochrome</option>
+                <option value="monochrome-dark">Monochrome-dark</option>
+                <option value="monochrome-light">Monochrome-light</option>
+                <option value="analogic">Analogic</option>
+                <option value="complement">Complement</option>
+                <option value="analogic-complement">Analogic-complement</option>
+                <option value="triad">Triad</option>
+                <option value="quad">Quad</option>
+            </select>
+            <button class="btn-getcolor" id="btn-getcolor">Get color scheme</button>
+        </div>
+        <div class="display-color" id="display-color">
+
+        </div>
+        <div class="hex-label" id="hex-label">
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>
